@@ -1,5 +1,6 @@
 # HRDashboard
-![screenshot]https://github.com/akshitagadiparthi/HRDashboard/blob/main/Screen%20Shot%202025-02-09%20at%207.16.53%20pm.png 
+![HR Attrition Dashboard](https://github.com/akshitagadiparthi/HRDashboard/blob/main/Screen%20Shot%202025-02-09%20at%207.16.53%20pm.png?raw=true)
+
 
 
 
