@@ -1,5 +1,5 @@
 # HRDashboard
-![image]
+![image] Screen Shot 2025-02-09 at 7.16.53 pm.png
 
 
 
