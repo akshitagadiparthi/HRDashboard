@@ -1,5 +1,5 @@
 # HRDashboard
-![image]Screen Shot 2025-02-09 at 7.16.53 pm.png
+![screenshot]https://github.com/akshitagadiparthi/HRDashboard/blob/main/Screen%20Shot%202025-02-09%20at%207.16.53%20pm.png 
 
 
 
